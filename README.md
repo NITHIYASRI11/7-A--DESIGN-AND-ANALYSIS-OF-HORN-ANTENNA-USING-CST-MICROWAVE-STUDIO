@@ -39,6 +39,12 @@ U a	L  2 we get a=110 mm for both E and H plane.
 
 <img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c75feeaf-de93-4ca6-9ed3-58d6a8d7ba52" />
 
+## OUTPUT
+<img width="1492" height="597" alt="image" src="https://github.com/user-attachments/assets/03647f54-a0eb-441a-befb-6f4483bc8d6e" />
+
+<img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/1343344a-b831-4e61-a3da-ca87151baa65" />
+
+
 **Conclusion**
 
 From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
